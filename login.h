@@ -27,6 +27,8 @@ public:
 
     QString token() const { return m_token; }
 
+
+
 private:
     QTcpSocket m_socket;
     quint32 m_messageId;
