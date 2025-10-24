@@ -80,7 +80,6 @@
         <file>img/logalarmon.png</file>
         <file>img/objdetectionlogon.png</file>
         <file>videos/output_video.avi</file>
-        <file>BoundingBox.qml</file>
         <file>videos/beep-1.wav</file>
         <file>img/gimbal0,0-active.png</file>
         <file>img/gimbalauto-active.png</file>
